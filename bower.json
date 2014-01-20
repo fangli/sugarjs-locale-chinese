@@ -1,0 +1,26 @@
+{
+  "name": "sugarjs-locale-chinese",
+  "version": "0.0.1",
+  "authors": [
+    "Fang Li <surivlee@gmail.com>"
+  ],
+  "description": "The enhanced Chinese lang locale plugin for Sugar.js",
+  "main": "lib/sugar.locale_zh-cn.js",
+  "keywords": [
+    "Sugarjs",
+    "Chinese",
+    "locale"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/fangli/sugarjs-locale-chinese",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sugar": "~1.4.1"
+  }
+}
